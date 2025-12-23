@@ -1,0 +1,20 @@
+{
+
+    "iconDefinitions": {
+        "ohl-file": {
+            "iconPath": "./icons/ohl.svg"
+        },
+        "rust-file": {
+            "iconPath": "./icons/rust.svg"
+        },
+        "java-file": {
+            "iconPath": "./icons/java.svg"
+        }
+    },
+
+    "fileExtensions": {
+        "ohl": "ohl-file",
+        "rs": "rust-file",
+        "java": "java-file"
+    }
+}
