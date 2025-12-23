@@ -9,12 +9,36 @@
         },
         "java-file": {
             "iconPath": "./icons/java.svg"
+        },
+        "c-file": {
+            "iconPath": "./icons/c.svg"
+        },
+        "c++-file": {
+            "iconPath": "./icons/c++.svg"
+        },
+        "c#-file": {
+            "iconPath": "./icons/c#.svg"
+        },
+        "python-file": {
+            "iconPath": "./icons/python.svg"
+        },
+        "ruby-file": {
+            "iconPath": "./icons/ruby.svg"
+        },
+        "lua-file": {
+            "iconPath": "./icons/lua-blank.svg"
         }
     },
 
     "fileExtensions": {
         "ohl": "ohl-file",
         "rs": "rust-file",
-        "java": "java-file"
+        "java": "java-file",
+        "c": "c-file",
+        "cpp": "c++-file",
+        "cs": "c#-file",
+        "py": "python-file",
+        "rb": "ruby-file",
+        "lua": "lua-file"
     }
 }

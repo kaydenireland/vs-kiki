@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Kiki",
+        "label": "Kiki - Angler Fish",
         "uiTheme": "vs-dark",
-        "path": "./themes/Kiki-color-theme.json"
+        "path": "./themes/angler-fish.json"
       }
     ],
     "iconThemes": [{
