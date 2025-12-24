@@ -18,8 +18,8 @@
       }
     ],
     "iconThemes": [{
-      "id": "kiki-file-icons",
-      "label": "Kiki File Icons",
+      "id": "vs-kiki",
+      "label": "Kiki",
       "path": "./icon-themes.json"
     }]
   }
