@@ -1,5 +1,5 @@
 {
-	"name": "Angler Fish",
+	"name": "Ocean Night",
 	"type": "dark",
 	"colors": {
 		"editor.background": "#1e272e",
@@ -21,8 +21,8 @@
 		"editor.selectionBackground": "#3e4c59",
 		"editor.selectionHighlightBackground": "#2c3843",
 		"editor.lineHighlightBackground": "#252d35",
-		"editorIndentGuide.background1": "#2c3843",
-		"editorIndentGuide.activeBackground1": "#4a5f6b",
+		"editorIndentGuide.background": "#2c3843",
+		"editorIndentGuide.activeBackground": "#4a5f6b",
 		"editorWhitespace.foreground": "#3e4c59",
 		"editorWidget.background": "#252d35",
 		"editorWidget.border": "#00a8cc",
@@ -56,7 +56,7 @@
 		"statusBar.debuggingBackground": "#00a8cc",
 		"statusBar.debuggingForeground": "#ffffff",
 		"tab.activeBackground": "#1e272e",
-		"tab.activeForeground": "#e8f5f7",
+		"tab.activeForeground": "#78e0dc",
 		"tab.border": "#181f24",
 		"tab.inactiveBackground": "#181f24",
 		"tab.inactiveForeground": "#7f8c98",
