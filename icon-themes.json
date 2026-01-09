@@ -246,6 +246,7 @@
         "pod": "perl-file",
         "rb": "ruby-file",
         "hs": "haskell-file",
+        "cabal": "haskell-file",
         "nim": "nim-file",
         "nims": "nim-file",
         "gleam": "gleam-file",
