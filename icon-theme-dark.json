@@ -1,0 +1,323 @@
+{
+    "$schema": "vscode://schemas/icon-theme",
+    "iconDefinitions": {
+        "ohl-file": {
+            "iconPath": "./icons/langs/ohl.svg"
+        },
+        "koka-file": {
+            "iconPath": "./icons/langs/koka-dark.svg"
+        },
+        "rust-file": {
+            "iconPath": "./icons/langs/rust.svg"
+        },
+        "java-file": {
+            "iconPath": "./icons/langs/java.svg"
+        },
+        "c-file": {
+            "iconPath": "./icons/langs/c.svg"
+        },
+        "c++-file": {
+            "iconPath": "./icons/langs/c++.svg"
+        },
+        "c#-file": {
+            "iconPath": "./icons/langs/c#.svg"
+        },
+        "f#-file": {
+            "iconPath": "./icons/langs/f#.svg"
+        },
+        "kotlin-file": {
+            "iconPath": "./icons/langs/kotlin.svg"
+        },
+        "scala-file": {
+            "iconPath": "./icons/langs/scala.svg"
+        },
+        "ocaml-file": {
+            "iconPath": "./icons/langs/ocaml.svg"
+        },
+        "go-file": {
+            "iconPath": "./icons/langs/go.svg"
+        },
+        "godot-file": {
+            "iconPath": "./icons/langs/godot.svg"
+        },
+        "nim-file": {
+            "iconPath": "./icons/langs/nim.svg"
+        },
+        "python-file": {
+            "iconPath": "./icons/langs/python.svg"
+        },
+        "php-file": {
+            "iconPath": "./icons/langs/php.svg"
+        },
+        "perl-file": {
+            "iconPath": "./icons/langs/perl-dark.svg"
+        },
+        "ruby-file": {
+            "iconPath": "./icons/langs/ruby.svg"
+        },
+        "lua-file": {
+            "iconPath": "./icons/langs/lua-blank.svg"
+        },
+        "brainfck-file": {
+            "iconPath": "./icons/langs/brainfck-dark.svg"
+        },
+        "gleam-file": {
+            "iconPath": "./icons/langs/gleam.svg"
+        },
+        "haskell-file": {
+            "iconPath": "./icons/langs/haskell.svg"
+        },
+        "cobol-file": {
+            "iconPath": "./icons/langs/cobol.svg"
+        },
+        "pascal-file": {
+            "iconPath": "./icons/langs/pascal.svg"
+        },
+        "fortran-file": {
+            "iconPath": "./icons/langs/fortran.svg"
+        },
+        "zig-file": {
+            "iconPath": "./icons/langs/zig.svg"
+        },
+        "ada-file": {
+            "iconPath": "./icons/langs/ada.svg"
+        },
+        "sql-file": {
+            "iconPath": "./icons/langs/sql.svg"
+        },
+        "html-file": {
+            "iconPath": "./icons/langs/html.svg"
+        },
+        "css-file": {
+            "iconPath": "./icons/langs/css.svg"
+        },
+        "scss-file": {
+            "iconPath": "./icons/langs/scss.svg"
+        },
+        "javascript-file": {
+            "iconPath": "./icons/langs/javascript.svg"
+        },
+        "typescript-file": {
+            "iconPath": "./icons/langs/typescript.svg"
+        },
+        "bash-file": {
+            "iconPath": "./icons/langs/bash.svg"
+        },
+        "powershell-file": {
+            "iconPath": "./icons/langs/powershell.svg"
+        },
+        "windows-file": {
+            "iconPath": "./icons/langs/windows.svg"
+        },
+        "assembly-file": {
+            "iconPath": "./icons/langs/assembly.svg"
+        },
+        "pdf-file": {
+            "iconPath": "./icons/data/pdf.svg"
+        },
+        "json-file": {
+            "iconPath": "./icons/data/json.svg"
+        },
+        "xml-file": {
+            "iconPath": "./icons/data/signal.svg"
+        },
+        "yml-file": {
+            "iconPath": "./icons/data/exclamation.svg"
+        },
+        "markdown-file": {
+            "iconPath": "./icons/text/markdown.svg"
+        },
+        "git-file": {
+            "iconPath": "./icons/git.svg"
+        },
+        "gradle-file": {
+            "iconPath": "./icons/frameworks/gradle.svg"
+        },
+        "react-file": {
+            "iconPath": "./icons/frameworks/react.svg"
+        },
+        "vue-file": {
+            "iconPath": "./icons/frameworks/vue.svg"
+        },
+        "astro-file": {
+            "iconPath": "./icons/frameworks/astro.svg"
+        },
+        "binary-file": {
+            "iconPath": "./icons/data/binary.svg"
+        },
+        "compressed-file": {
+            "iconPath": "./icons/data/compressed.svg"
+        },
+        "settings-file": {
+            "iconPath": "./icons/settings.svg"
+        },
+        "photo-file": {
+            "iconPath": "./icons/data/photo.svg"
+        },
+        "svg-file": {
+            "iconPath": "./icons/data/svg.svg"
+        },
+        "icon-file": {
+            "iconPath": "./icons/data/star.svg"
+        },
+        "audio-file": {
+            "iconPath": "./icons/data/speaker.svg"
+        },
+        "video-file": {
+            "iconPath": "./icons/data/play.svg"
+        },
+        "font-file": {
+            "iconPath": "./icons/data/font.svg"
+        },
+        "database-file": {
+            "iconPath": "./icons/data/database.svg"
+        }
+    },
+
+    "fileExtensions": {
+        "ohl": "ohl-file",
+        "bf": "brainfck-file",
+        "kk": "koka-file",
+        "rs": "rust-file",
+        "java": "java-file",
+        "class": "java-file",
+        "c": "c-file",
+        "h": "c-file",
+        "cpp": "c++-file",
+        "cc": "c++-file",
+        "cxx": "c++-file",
+        "hh": "c++-file",
+        "hpp": "c++-file",
+        "cs": "c#-file",
+        "kt": "kotlin-file",
+        "kts": "kotlin-file",
+        "scala": "scala-file",
+        "go": "go-file",
+        "gd": "godot-file",
+        "fs": "f#-file",
+        "fsx": "f#-file",
+        "fsi": "f#-file",
+        "py": "python-file",
+        "pyi": "python-file",
+        "php": "php-file",
+        "zig": "zig-file",
+        "phtml": "php-file",
+        "f": "fortran-file",
+        "F": "fortran-file",
+        "for": "fortran-file",
+        "FOR": "fortran-file",
+        "f66": "fortran-file",
+        "F66": "fortran-file",
+        "fpp": "fortran-file",
+        "FPP": "fortran-file",
+        "f77": "fortran-file",
+        "F77": "fortran-file",
+        "f90": "fortran-file",
+        "F90": "fortran-file",
+        "f95": "fortran-file",
+        "F95": "fortran-file",
+        "f03": "fortran-file",
+        "F03": "fortran-file",
+        "f08": "fortran-file",
+        "F08": "fortran-file",
+        "f18": "fortran-file",
+        "F18": "fortran-file",
+        "ftn": "fortran-file",
+        "FTN": "fortran-file",
+        "cob": "cobol-file",
+        "cbl": "cobol-file",
+        "cobol": "cobol-file",
+        "cb2": "cobol-file",
+        "cob2": "cobol-file",
+        "cbl2": "cobol-file",
+        "cobx": "cobol-file",
+        "p": "pascal-file",
+        "pp": "pascal-file",
+        "ppr": "pascal-file",
+        "pas": "pascal-file",
+        "adb": "ada-file",
+        "ads": "ada-file",
+        "ada": "ada-file",
+        "gpr": "ada-file",
+        "ali": "ada-file",
+        "pl": "perl-file",
+        "pm": "perl-file",
+        "t": "perl-file",
+        "pod": "perl-file",
+        "rb": "ruby-file",
+        "hs": "haskell-file",
+        "cabal": "haskell-file",
+        "nim": "nim-file",
+        "nims": "nim-file",
+        "gleam": "gleam-file",
+        "lua": "lua-file",
+        "ml": "ocaml-file",
+        "mli": "ocaml-file",
+        "html": "html-file",
+        "htm": "html-file",
+        "xhtml": "html-file",
+        "css": "css-file",
+        "scss": "scss-file",
+        "sass": "scss-file",
+        "js": "javascript-file",
+        "mjs": "javascript-file",
+        "ts": "typescript-file",
+        "sh": "bash-file",
+        "fish": "bash-file",
+        "bat": "windows-file",
+        "ps1": "powershell-file",
+        "cmd": "windows-file",
+        "s": "assembly-file",
+        "S": "assembly-file",
+        "asm": "assembly-file",
+        "pdf": "pdf-file",
+        "json": "json-file",
+        "jsonc": "json-file",
+        "xml": "xml-file",
+        "xaml": "xml-file",
+        "yml": "yml-file",
+        "yaml": "yml-file",
+        "md": "markdown-file",
+        "sql": "sql-file",
+        "gitignore": "git-file",
+        "vscodeignore": "git-file",
+        "gitattributes": "git-file",
+        "gitmodules": "git-file",
+        "gradle": "gradle-file",
+        "jsx": "react-file",
+        "tsx": "react-file",
+        "vue": "vue-file",
+        "astro": "astro-file",
+        "toml": "settings-file",
+        "env": "settings-file",
+        "ini": "settings-file",
+        "conf": "settings-file",
+        "cnf": "settings-file",
+        "config": "settings-file",
+        "png": "photo-file",
+        "jpg": "photo-file",
+        "jpeg": "photo-file",
+        "webp": "photo-file",
+        "gif": "photo-file",
+        "bmp": "photo-file",
+        "svg": "svg-file",
+        "ico": "icon-file",
+        "mp3": "audio-file",
+        "wav": "audio-file",
+        "ogg": "audio-file",
+        "mp4": "video-file",
+        "webm": "video-file",
+        "ttf": "font-file",
+        "otf": "font-file",
+        "woff": "font-file",
+        "woff2": "font-file",
+        "db": "database-file",
+        "zip": "compressed-file",
+        "tar": "compressed-file",
+        "7z": "compressed-file",
+        "rar": "compressed-file",
+        "gz": "compressed-file",
+        "exe": "binary-file",
+        "dll": "binary-file"
+    }
+}

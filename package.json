@@ -17,10 +17,17 @@
         "path": "./themes/angler-fish.json"
       }
     ],
-    "iconThemes": [{
-      "id": "vs-kiki",
-      "label": "Kiki",
-      "path": "./icon-themes.json"
-    }]
+    "iconThemes": [
+      {
+        "id": "vs-kiki-light",
+        "label": "Kiki (Light)",
+        "path": "./icon-theme-light.json"
+      },
+      {
+        "id": "vs-kiki-dark",
+        "label": "Kiki (Dark)",
+        "path": "./icon-theme-dark.json"
+      }
+    ]
   }
 }
