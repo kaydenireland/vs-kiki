@@ -127,6 +127,9 @@
         "markdown-file": {
             "iconPath": "./icons/text/markdown.svg"
         },
+        "text-file": {
+            "iconPath": "./icons/text/text.svg"
+        },
         "git-file": {
             "iconPath": "./icons/git.svg"
         },
@@ -278,6 +281,7 @@
         "yml": "yml-file",
         "yaml": "yml-file",
         "md": "markdown-file",
+        "txt": "text-file",
         "sql": "sql-file",
         "gitignore": "git-file",
         "vscodeignore": "git-file",
