@@ -1,0 +1,4 @@
+When creating icon:
+- 500x500 canvas logo size
+- 350x350 logo size
+- Center and 5 shift rights or ~3 boxes from edge

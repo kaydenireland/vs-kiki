@@ -145,6 +145,12 @@
         "astro-file": {
             "iconPath": "./icons/frameworks/astro.svg"
         },
+        "glsl-file": {
+            "iconPath": "./icons/frameworks/glsl.svg"
+        },
+        "llvm-file": {
+            "iconPath": "./icons/frameworks/llvm-dark.svg"
+        },
         "binary-file": {
             "iconPath": "./icons/data/binary.svg"
         },
@@ -292,7 +298,11 @@
         "tsx": "react-file",
         "vue": "vue-file",
         "astro": "astro-file",
+        "glsl": "glsl-file",
+        "ll": "llvm-file",
+        "bc": "llvm-file",
         "toml": "settings-file",
+        "lock": "settings-file",
         "env": "settings-file",
         "ini": "settings-file",
         "conf": "settings-file",
