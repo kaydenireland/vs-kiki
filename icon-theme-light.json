@@ -214,13 +214,17 @@
         "font-file": {
             "iconPath": "./icons/data/font.svg"
         },
+        "license-file": {
+            "iconPath": "./icons/text/quill.svg"
+        },
         "database-file": {
             "iconPath": "./icons/data/database.svg"
         }
     },
 
     "fileNames": {
-        "CMakeLists.txt": "cmake-file"
+        "CMakeLists.txt": "cmake-file",
+        "LICENSE": "license-file"
     },
 
     "fileExtensions": {

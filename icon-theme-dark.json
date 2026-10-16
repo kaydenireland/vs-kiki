@@ -92,7 +92,7 @@
             "iconPath": "./icons/langs/zig.svg"
         },
         "ada-file": {
-            "iconPath": "./icons/langs/ada-light.svg"
+            "iconPath": "./icons/langs/ada.svg"
         },
         "julia-file": {
             "iconPath": "./icons/langs/julia.svg"
@@ -128,7 +128,7 @@
             "iconPath": "./icons/langs/dart.svg"
         },
         "verse-file": {
-            "iconPath": "./icons/langs/verse-light.svg"
+            "iconPath": "./icons/langs/verse.svg"
         },
         "bash-file": {
             "iconPath": "./icons/langs/bash.svg"
@@ -211,6 +211,9 @@
         "video-file": {
             "iconPath": "./icons/data/play.svg"
         },
+        "license-file": {
+            "iconPath": "./icons/text/quill-light.svg"
+        },
         "font-file": {
             "iconPath": "./icons/data/font.svg"
         },
@@ -220,7 +223,8 @@
     },
 
     "fileNames": {
-        "CMakeLists.txt": "cmake-file"
+        "CMakeLists.txt": "cmake-file",
+        "LICENSE": "license-file"
     },
 
     "fileExtensions": {
