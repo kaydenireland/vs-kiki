@@ -46,6 +46,9 @@
         "python-file": {
             "iconPath": "./icons/langs/python.svg"
         },
+        "swift-file": {
+            "iconPath": "./icons/langs/swift.svg"
+        },
         "php-file": {
             "iconPath": "./icons/langs/php.svg"
         },
@@ -76,14 +79,26 @@
         "fortran-file": {
             "iconPath": "./icons/langs/fortran.svg"
         },
+        "holy-c-file": {
+            "iconPath": "./icons/langs/holyc.svg"
+        },
         "zig-file": {
             "iconPath": "./icons/langs/zig.svg"
         },
         "ada-file": {
-            "iconPath": "./icons/langs/ada.svg"
+            "iconPath": "./icons/langs/ada-dark.svg"
         },
         "sql-file": {
             "iconPath": "./icons/langs/sql.svg"
+        },
+        "elixir-file": {
+            "iconPath": "./icons/langs/elixir.svg"
+        },
+        "erlang-file": {
+            "iconPath": "./icons/langs/erlang.svg"
+        },
+        "julia-file": {
+            "iconPath": "./icons/langs/julia.svg"
         },
         "html-file": {
             "iconPath": "./icons/langs/html.svg"
@@ -99,6 +114,12 @@
         },
         "typescript-file": {
             "iconPath": "./icons/langs/typescript.svg"
+        },
+        "crystal-file": {
+            "iconPath": "./icons/langs/crystal.svg"
+        },
+        "verse-file": {
+            "iconPath": "./icons/langs/verse-dark.svg"
         },
         "bash-file": {
             "iconPath": "./icons/langs/bash.svg"
@@ -131,7 +152,13 @@
             "iconPath": "./icons/text/text.svg"
         },
         "git-file": {
-            "iconPath": "./icons/git.svg"
+            "iconPath": "./icons/tools/git.svg"
+        },
+        "make-file": {
+            "iconPath": "./icons/tools/make.svg"
+        },
+        "cmake-file": {
+            "iconPath": "./icons/tools/cmake.svg"
         },
         "gradle-file": {
             "iconPath": "./icons/frameworks/gradle.svg"
@@ -183,8 +210,13 @@
         }
     },
 
+    "fileNames": {
+        "CMakeLists.txt": "cmake-file"
+    },
+
     "fileExtensions": {
         "ohl": "ohl-file",
+        "heli": "ohl-file",
         "bf": "brainfck-file",
         "kk": "koka-file",
         "rs": "rust-file",
@@ -198,9 +230,12 @@
         "hh": "c++-file",
         "hpp": "c++-file",
         "cs": "c#-file",
+        "hc": "holy-c-file",
+        "HC": "holy-c-file",
         "kt": "kotlin-file",
         "kts": "kotlin-file",
         "scala": "scala-file",
+        "swift": "swift-file",
         "go": "go-file",
         "gd": "godot-file",
         "fs": "f#-file",
@@ -211,6 +246,7 @@
         "php": "php-file",
         "zig": "zig-file",
         "phtml": "php-file",
+        "cr": "crystal-file",
         "f": "fortran-file",
         "F": "fortran-file",
         "for": "fortran-file",
@@ -256,6 +292,7 @@
         "rb": "ruby-file",
         "hs": "haskell-file",
         "cabal": "haskell-file",
+        "verse": "verse-file",
         "nim": "nim-file",
         "nims": "nim-file",
         "gleam": "gleam-file",
@@ -270,7 +307,21 @@
         "sass": "scss-file",
         "js": "javascript-file",
         "mjs": "javascript-file",
+        "cjs": "javascript-file",
         "ts": "typescript-file",
+        "mts": "typescript-file",
+        "cts": "typescript-file",
+        "ex": "elixir-file",
+        "exs": "elixir-file",
+        "eex": "elixir-file",
+        "heex": "elixir-file",
+        "erl": "erlang-file",
+        "hrl": "erlang-file",
+        "beam": "erlang-file",
+        "lfe": "erlang-file",
+        "jl": "julia-file",
+        "jld": "julia-file",
+        "jld2": "julia-file",
         "sh": "bash-file",
         "fish": "bash-file",
         "bat": "windows-file",
@@ -282,6 +333,9 @@
         "pdf": "pdf-file",
         "json": "json-file",
         "jsonc": "json-file",
+        "json5": "json-file",
+        "jsonl": "json-file",
+        "ndjson": "json-file",
         "xml": "xml-file",
         "xaml": "xml-file",
         "yml": "yml-file",
@@ -293,6 +347,7 @@
         "vscodeignore": "git-file",
         "gitattributes": "git-file",
         "gitmodules": "git-file",
+        "cmake": "cmake-file",
         "gradle": "gradle-file",
         "jsx": "react-file",
         "tsx": "react-file",
@@ -301,6 +356,7 @@
         "glsl": "glsl-file",
         "ll": "llvm-file",
         "bc": "llvm-file",
+        "mir": "llvm-file",
         "toml": "settings-file",
         "lock": "settings-file",
         "env": "settings-file",
@@ -332,6 +388,7 @@
         "rar": "compressed-file",
         "gz": "compressed-file",
         "exe": "binary-file",
+        "bin": "binary-file",
         "dll": "binary-file"
     }
 }
