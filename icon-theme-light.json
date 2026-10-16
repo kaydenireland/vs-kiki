@@ -49,6 +49,15 @@
         "swift-file": {
             "iconPath": "./icons/langs/swift.svg"
         },
+        "d-file": {
+            "iconPath": "./icons/langs/d.svg"
+        },
+        "r-file": {
+            "iconPath": "./icons/langs/r.svg"
+        },
+        "dart-file": {
+            "iconPath": "./icons/langs/dart.svg"
+        },
         "php-file": {
             "iconPath": "./icons/langs/php.svg"
         },
@@ -296,6 +305,10 @@
         "nim": "nim-file",
         "nims": "nim-file",
         "gleam": "gleam-file",
+        "d": "d-file",
+        "r": "r-file",
+        "R": "r-file",
+        "dart": "dart-file",
         "lua": "lua-file",
         "ml": "ocaml-file",
         "mli": "ocaml-file",

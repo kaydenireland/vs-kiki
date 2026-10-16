@@ -118,6 +118,15 @@
         "crystal-file": {
             "iconPath": "./icons/langs/crystal.svg"
         },
+        "d-file": {
+            "iconPath": "./icons/langs/d.svg"
+        },
+        "r-file": {
+            "iconPath": "./icons/langs/r.svg"
+        },
+        "dart-file": {
+            "iconPath": "./icons/langs/dart.svg"
+        },
         "verse-file": {
             "iconPath": "./icons/langs/verse-light.svg"
         },
@@ -306,6 +315,10 @@
         "ml": "ocaml-file",
         "mli": "ocaml-file",
         "swift": "swift-file",
+        "d": "d-file",
+        "r": "r-file",
+        "R": "r-file",
+        "dart": "dart-file",
         "jl": "julia-file",
         "jld": "julia-file",
         "jld2": "julia-file",
