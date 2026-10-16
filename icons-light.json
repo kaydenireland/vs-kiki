@@ -76,6 +76,12 @@
         "gleam-file": {
             "iconPath": "./icons/langs/gleam.svg"
         },
+        "clojure-file": {
+            "iconPath": "./icons/langs/clojure.svg"
+        },
+        "nix-file": {
+            "iconPath": "./icons/langs/nix.svg"
+        },
         "haskell-file": {
             "iconPath": "./icons/langs/haskell.svg"
         },
@@ -196,6 +202,9 @@
         "settings-file": {
             "iconPath": "./icons/settings.svg"
         },
+        "docker-file": {
+            "iconPath": "./icons/tools/docker.svg"
+        },
         "photo-file": {
             "iconPath": "./icons/data/photo.svg"
         },
@@ -219,12 +228,18 @@
         },
         "database-file": {
             "iconPath": "./icons/data/database.svg"
+        },
+        "checkbox-file": {
+            "iconPath": "./icons/checkbox-light.svg"
         }
     },
 
     "fileNames": {
         "CMakeLists.txt": "cmake-file",
-        "LICENSE": "license-file"
+        "LICENSE": "license-file",
+        "TODO": "checkbox-file",
+        "todo": "checkbox-file",
+        "Dockerfile": "docker-file"
     },
 
     "fileExtensions": {
@@ -257,6 +272,12 @@
         "py": "python-file",
         "pyi": "python-file",
         "php": "php-file",
+        "clj": "clojure-file",
+        "cljs": "clojure-file",
+        "cljc": "clojure-file",
+        "cljr": "clojure-file",
+        "edn": "clojure-file",
+        "bb": "clojure-file",
         "zig": "zig-file",
         "phtml": "php-file",
         "cr": "crystal-file",
@@ -309,6 +330,7 @@
         "nim": "nim-file",
         "nims": "nim-file",
         "gleam": "gleam-file",
+        "nix": "nix-file",
         "d": "d-file",
         "r": "r-file",
         "R": "r-file",
@@ -394,6 +416,7 @@
         "ogg": "audio-file",
         "mp4": "video-file",
         "webm": "video-file",
+        "dockerfile": "docker-file",
         "ttf": "font-file",
         "otf": "font-file",
         "woff": "font-file",

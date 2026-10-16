@@ -31,6 +31,9 @@
         "kotlin-file": {
             "iconPath": "./icons/langs/kotlin.svg"
         },
+        "clojure-file": {
+            "iconPath": "./icons/langs/clojure.svg"
+        },
         "scala-file": {
             "iconPath": "./icons/langs/scala.svg"
         },
@@ -130,6 +133,9 @@
         "verse-file": {
             "iconPath": "./icons/langs/verse.svg"
         },
+        "nix-file": {
+            "iconPath": "./icons/langs/nix.svg"
+        },
         "bash-file": {
             "iconPath": "./icons/langs/bash.svg"
         },
@@ -202,6 +208,9 @@
         "svg-file": {
             "iconPath": "./icons/data/svg.svg"
         },
+        "docker-file": {
+            "iconPath": "./icons/tools/docker.svg"
+        },
         "icon-file": {
             "iconPath": "./icons/data/star.svg"
         },
@@ -212,19 +221,25 @@
             "iconPath": "./icons/data/play.svg"
         },
         "license-file": {
-            "iconPath": "./icons/text/quill-light.svg"
+            "iconPath": "./icons/text/quill-dark.svg"
         },
         "font-file": {
             "iconPath": "./icons/data/font.svg"
         },
         "database-file": {
             "iconPath": "./icons/data/database.svg"
+        },
+        "checkbox-file": {
+            "iconPath": "./icons/checkbox.svg"
         }
     },
 
     "fileNames": {
         "CMakeLists.txt": "cmake-file",
-        "LICENSE": "license-file"
+        "LICENSE": "license-file",
+        "TODO": "checkbox-file",
+        "todo": "checkbox-file",
+        "Dockerfile": "docker-file"
     },
 
     "fileExtensions": {
@@ -296,6 +311,7 @@
         "ada": "ada-file",
         "gpr": "ada-file",
         "ali": "ada-file",
+        "nix": "nix-file",
         "ex": "elixir-file",
         "exs": "elixir-file",
         "eex": "elixir-file",
@@ -319,6 +335,12 @@
         "ml": "ocaml-file",
         "mli": "ocaml-file",
         "swift": "swift-file",
+        "clj": "clojure-file",
+        "cljs": "clojure-file",
+        "cljc": "clojure-file",
+        "cljr": "clojure-file",
+        "edn": "clojure-file",
+        "bb": "clojure-file",
         "d": "d-file",
         "r": "r-file",
         "R": "r-file",
@@ -380,6 +402,7 @@
         "conf": "settings-file",
         "cnf": "settings-file",
         "config": "settings-file",
+        "dockerfile": "docker-file",
         "png": "photo-file",
         "jpg": "photo-file",
         "jpeg": "photo-file",

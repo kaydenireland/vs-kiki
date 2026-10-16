@@ -25,12 +25,12 @@
       {
         "id": "vs-kiki-light",
         "label": "Kiki (Light)",
-        "path": "./icon-theme-light.json"
+        "path": "./icons-light.json"
       },
       {
         "id": "vs-kiki-dark",
         "label": "Kiki (Dark)",
-        "path": "./icon-theme-dark.json"
+        "path": "./icons-dark.json"
       }
     ]
   }
